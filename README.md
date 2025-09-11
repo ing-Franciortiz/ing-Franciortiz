@@ -4,6 +4,7 @@ Soy un joven programador de 21 años, originario de la República Dominicana, ap
 
 
 ## 🌐 Socials:
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-8494341199?logo=whatsapp&logoColor=white&color=25D366)](https://wa.me/18494341199?text=Hola%20Franci%20—%20te%20contacto%20desde%20tu%20perfil%20en%20GitHub)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:franciortiz2004@icloud.com) 
 
 # 💻 Tech Stack:
