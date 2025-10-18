@@ -1,6 +1,9 @@
 ## Hi there 👋
 # 💫 About Me:
-Soy un joven programador de 21 años, originario de la República Dominicana, apasionado por la tecnología, el desarrollo con Python y el fascinante mundo de la ciberseguridad. Me caracterizo por tener una gran motivación para aprender, crecer y destacar en cada proyecto en el que participo.<br><br>Me considero una persona curiosa, autodidacta y con fuerte interés en adquirir nuevas habilidades que me permitan aportar soluciones innovadoras. Mi meta es convertirme en un profesional altamente competente, capaz de marcar la diferencia en el ámbito del software y la seguridad informática.<br><br>🚀 Busco activamente oportunidades para colaborar en proyectos desafiantes, donde pueda aportar mi entusiasmo, creatividad y dedicación, mientras sigo perfeccionando mis conocimientos.
+👨‍💻 Ingeniero en Software | Experto en Ciberseguridad, PostgreSQL y Administración de Redes
+🖥️ Experiencia en mantenimiento de computadoras, configuración de equipos Cisco y gestión de infraestructura tecnológica
+🚀 Apasionado por la innovación tecnológica, la automatización y la protección de sistemas, aplicando programación ágil y buenas prácticas en bases de datos relacionales
+⚡ Orientado a resultados, con capacidad para resolver problemas técnicos y colaborar en proyectos de TI y seguridad informática
 
 
 ## 🌐 Socials:
